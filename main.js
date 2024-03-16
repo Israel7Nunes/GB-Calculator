@@ -1,3 +1,5 @@
+alert("Site feito por Israel Salvalaio Nunes");
+
 const display = document.querySelector('#display');
 
 const buttons = document.querySelectorAll('button');
